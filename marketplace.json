@@ -1,0 +1,15 @@
+{
+  "name": "gael-plugins-official",
+  "version": "1.0.0",
+  "description": "Geospatial Extensions Toolkit for Gael",
+  "plugins": {
+    "qgis-bridge": {
+      "path": "./qgis-bridge/plugin.json",
+      "description": "Directly interface with local QGIS processes and datasets."
+    },
+    "postgis-indexer": {
+      "path": "./postgis-indexer/plugin.json",
+      "description": "Spatial database analysis and SQL toolkits."
+    }
+  }
+}
