@@ -1,0 +1,13 @@
+{
+  "name": "auto-rollback",
+  "version": "1.0.0",
+  "description": "State checkpoint and revert manager.",
+  "mcpServers": {
+    "auto-rollback": {
+      "command": "node",
+      "args": [
+        "server.mjs"
+      ]
+    }
+  }
+}

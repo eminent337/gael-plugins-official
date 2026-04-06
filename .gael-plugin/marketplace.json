@@ -22,6 +22,26 @@
     "agent-cron": {
       "path": "./agent-cron/plugin.json",
       "description": "Natural language cron scheduler for background tasks."
+    },
+    "agent-moa": {
+      "path": "./agent-moa/plugin.json",
+      "description": "Mixture of Agents debate committee."
+    },
+    "auto-rollback": {
+      "path": "./auto-rollback/plugin.json",
+      "description": "State checkpoint and revert manager."
+    },
+    "security-osv": {
+      "path": "./security-osv/plugin.json",
+      "description": "Tirith dependency security scanning integration."
+    },
+    "browser-camofox": {
+      "path": "./browser-camofox/plugin.json",
+      "description": "Stealth scraper bypass."
+    },
+    "home-assistant-bridge": {
+      "path": "./home-assistant-bridge/plugin.json",
+      "description": "IoC control integration for Home Assistant."
     }
   }
 }

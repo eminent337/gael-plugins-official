@@ -1,0 +1,13 @@
+{
+  "name": "security-osv",
+  "version": "1.0.0",
+  "description": "Tirith dependency security scanning integration.",
+  "mcpServers": {
+    "security-osv": {
+      "command": "node",
+      "args": [
+        "server.mjs"
+      ]
+    }
+  }
+}

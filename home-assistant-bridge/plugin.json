@@ -1,0 +1,13 @@
+{
+  "name": "home-assistant-bridge",
+  "version": "1.0.0",
+  "description": "IoC control integration for Home Assistant.",
+  "mcpServers": {
+    "home-assistant-bridge": {
+      "command": "node",
+      "args": [
+        "server.mjs"
+      ]
+    }
+  }
+}

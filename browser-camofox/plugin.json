@@ -1,0 +1,13 @@
+{
+  "name": "browser-camofox",
+  "version": "1.0.0",
+  "description": "Stealth scraper bypass.",
+  "mcpServers": {
+    "browser-camofox": {
+      "command": "node",
+      "args": [
+        "server.mjs"
+      ]
+    }
+  }
+}

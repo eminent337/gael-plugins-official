@@ -1,0 +1,13 @@
+{
+  "name": "agent-moa",
+  "version": "1.0.0",
+  "description": "Mixture of Agents debate committee.",
+  "mcpServers": {
+    "agent-moa": {
+      "command": "node",
+      "args": [
+        "server.mjs"
+      ]
+    }
+  }
+}
