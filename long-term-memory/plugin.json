@@ -1,0 +1,13 @@
+{
+  "name": "long-term-memory",
+  "version": "1.0.0",
+  "description": "FTS Cross-session memory component for agents.",
+  "mcpServers": {
+    "long-term-memory": {
+      "command": "node",
+      "args": [
+        "server.mjs"
+      ]
+    }
+  }
+}

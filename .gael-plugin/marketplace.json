@@ -1,7 +1,7 @@
 {
   "name": "gael-plugins-official",
   "version": "1.0.0",
-  "description": "Geospatial Extensions Toolkit for Gael",
+  "description": "Geospatial and Automation Toolkit for Gael",
   "plugins": {
     "qgis-bridge": {
       "path": "./qgis-bridge/plugin.json",
@@ -10,6 +10,18 @@
     "postgis-indexer": {
       "path": "./postgis-indexer/plugin.json",
       "description": "Spatial database analysis and SQL toolkits."
+    },
+    "agent-skills": {
+      "path": "./agent-skills/plugin.json",
+      "description": "Port of Hermes autonomous procedural memory system."
+    },
+    "long-term-memory": {
+      "path": "./long-term-memory/plugin.json",
+      "description": "FTS Cross-session memory component for agents."
+    },
+    "agent-cron": {
+      "path": "./agent-cron/plugin.json",
+      "description": "Natural language cron scheduler for background tasks."
     }
   }
 }

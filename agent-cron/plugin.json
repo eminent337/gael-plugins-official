@@ -1,0 +1,13 @@
+{
+  "name": "agent-cron",
+  "version": "1.0.0",
+  "description": "Natural language cron scheduler for background tasks.",
+  "mcpServers": {
+    "agent-cron": {
+      "command": "node",
+      "args": [
+        "server.mjs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "agent-skills",
+  "version": "1.0.0",
+  "description": "Port of Hermes autonomous procedural memory system.",
+  "mcpServers": {
+    "agent-skills": {
+      "command": "node",
+      "args": [
+        "server.mjs"
+      ]
+    }
+  }
+}
